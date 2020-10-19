@@ -196,7 +196,7 @@ def main(url, app_secret, oob_url="", parse_url="", driver=None):
         check = frag.check()
         if check:
             results = frag.controller()
-            if not results[0]:
+            if not results:
                 results = frag.yaml(oob_url, parse_url)
             if results:
                 for result in results:
