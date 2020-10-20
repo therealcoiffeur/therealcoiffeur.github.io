@@ -24,6 +24,7 @@ title: coiffeur's blog
 - [C1110: Bolt CMS <= 3.7.1, Profiler = RCE (pre-auth)](/c1110)
 - [C1111: Squiz Matrix, multiple XSS (authenticated)](/c1111)
 - [C10000: Zabbix >= v5.2.0, PHP Object Injection (pre-auth)](/c10000)
+- [B3: Back to basics](/b3)
 
 
 ## Abstract
