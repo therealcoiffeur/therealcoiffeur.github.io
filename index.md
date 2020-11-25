@@ -25,6 +25,7 @@ title: coiffeur's blog
 - [C1111: Squiz Matrix, multiple XSS (authenticated)](/c1111)
 - [C10000: Zabbix >= v5.2.0, PHP Object Injection (pre-auth)](/c10000)
 - [B3: Back to basics](/b3)
+- [C10001: Dolibarr 12.0.3, Multiples XSS to RCE](/c10001)
 
 
 ## Abstract
