@@ -28,6 +28,7 @@ title: coiffeur's blog
 - [C10001: Dolibarr 12.0.3, Multiple XSS to RCE](/c10001)
 - [C10010: Dolibarr 12.0.3, Multiple SQL injection (authenticated)](/c10010)
 - [C10011: Dolibarr 12.0.3, SQLi to RCE (authenticated)](/c10011)
+- [C10100: Sendy 5.1.1, SSRF (pre-auth)](/c10100)
 
 
 ## Abstract
