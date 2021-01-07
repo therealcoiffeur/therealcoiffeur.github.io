@@ -29,6 +29,8 @@ title: coiffeur's blog
 - [C10010: Dolibarr 12.0.3, Multiple SQL injection (authenticated)](/c10010)
 - [C10011: Dolibarr 12.0.3, SQLi to RCE (authenticated)](/c10011)
 - [C10100: Sendy 5.1.1, SSRF (pre-auth)](/c10100)
+- [C10101: PHPBoost CMS 5.2, SSRF (pre-auth)](/c10101)
+- [C10111: PHPBoost CMS 5.2, PHP Object Injection (pre-auth)](/c10111)
 
 
 ## Abstract
